@@ -134,3 +134,7 @@ A: Absolutely! If you submit publicly, it's already part of your GitHub portfoli
 **Ready to begin?** Head to [`materials/`](./materials/) to start your investigation! 🔍
 
 ⭐ Star this repo if you find it useful for learning!
+
+## 🎬 Video Presentation  
+You can watch the incident analysis video here:  
+👉 [Watch on Google Drive](https://drive.google.com/file/d/1Nbea2NmgHk3KvF3lc9hjo1w-OQ1RVLJR/view?usp=drive_link)
